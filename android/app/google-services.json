@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "220157950729",
+    "project_id": "awesomeprojectsflutterdev",
+    "storage_bucket": "awesomeprojectsflutterdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220157950729:android:a80e078ecac628a0aaf1d8",
+        "android_client_info": {
+          "package_name": "com.example.promodoromobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220157950729-q9hsvhu2nbh509gvgbi5amcf9coca5b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.promodoromobile",
+            "certificate_hash": "a7324edf44c8708324f53ba8a7110aa505ca8979"
+          }
+        },
+        {
+          "client_id": "220157950729-rrg2dlq0qri7hg514e7r7sfqjvkludlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9aqW4eA3hdxFml3gDc-2KBZFjIDTLZK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220157950729-rrg2dlq0qri7hg514e7r7sfqjvkludlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220157950729:android:98bb925f3acf681caaf1d8",
+        "android_client_info": {
+          "package_name": "shivamyadav.development.booksunioandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220157950729-no6d11rfcvhnlu5dojmest8tethgg1h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shivamyadav.development.booksunioandroid",
+            "certificate_hash": "a7324edf44c8708324f53ba8a7110aa505ca8979"
+          }
+        },
+        {
+          "client_id": "220157950729-rrg2dlq0qri7hg514e7r7sfqjvkludlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9aqW4eA3hdxFml3gDc-2KBZFjIDTLZK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220157950729-rrg2dlq0qri7hg514e7r7sfqjvkludlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220157950729:android:ffb7fe8960805a83aaf1d8",
+        "android_client_info": {
+          "package_name": "shivamyadav.development.confabandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220157950729-akoofc3hrl97m2juma40ekrbfpv22vkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shivamyadav.development.confabandroid",
+            "certificate_hash": "a78c984b25e69523e889d8708c8006a0a3624411"
+          }
+        },
+        {
+          "client_id": "220157950729-rrg2dlq0qri7hg514e7r7sfqjvkludlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9aqW4eA3hdxFml3gDc-2KBZFjIDTLZK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220157950729-rrg2dlq0qri7hg514e7r7sfqjvkludlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220157950729:android:5fde869672b16fb9aaf1d8",
+        "android_client_info": {
+          "package_name": "shivamyadav.development.paroleandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220157950729-v8s0a81olcko3agba1imotbtouvs1b2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shivamyadav.development.paroleandroid",
+            "certificate_hash": "a7324edf44c8708324f53ba8a7110aa505ca8979"
+          }
+        },
+        {
+          "client_id": "220157950729-rrg2dlq0qri7hg514e7r7sfqjvkludlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9aqW4eA3hdxFml3gDc-2KBZFjIDTLZK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220157950729-rrg2dlq0qri7hg514e7r7sfqjvkludlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
